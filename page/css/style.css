@@ -1,0 +1,15 @@
+h1,
+h3
+{
+    background-color: blueviolet;
+}
+
+p
+{
+    color: cornflowerblue;
+}
+
+h1 + h3 
+{
+    background-color: darkred;
+}
